@@ -1,0 +1,28 @@
+{
+  "name": "qberon-digital/symfony-tolgee-translation-provider",
+  "type": "symfony-translation-bridge",
+  "description": "Symfony Tolgee Translation Provider Bridge",
+  "keywords": [
+    "tolgee",
+    "translation",
+    "provider"
+  ],
+  "authors": [
+    {
+      "name": "Gálik Pál",
+      "homepage": "https://github.com/palgalik"
+    }
+  ],
+  "require": {
+    "php": ">=8.2",
+    "symfony/config": "^5.4|^6.0",
+    "symfony/http-client": "^5.4|^6.0",
+    "symfony/translation": "^5.4.21|^6.2.7",
+    "symfony/mime": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "QberonDigital\\Symfony\\Translation\\Tolgee": "src"
+    }
+  }
+}
