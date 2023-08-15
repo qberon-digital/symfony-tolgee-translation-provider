@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "QberonDigital\\Symfony\\Translation\\Tolgee": "src"
+      "QberonDigital\\Symfony\\Translation\\Tolgee\\": "src"
     }
   }
 }
