@@ -2,7 +2,7 @@
   "name": "qberon-digital/symfony-tolgee-translation-provider",
   "type": "symfony-translation-bridge",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Symfony Tolgee Translation Provider Bridge",
   "keywords": [
     "tolgee",
